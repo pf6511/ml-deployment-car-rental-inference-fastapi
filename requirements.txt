@@ -2,14 +2,9 @@ fastapi
 uvicorn[standard]
 gunicorn
 pydantic 
-typing 
-pandas 
-openpyxl 
+pandas
 mlflow 
 boto3 
 scikit-learn==1.7.0
 python-multipart
-fsspec
-s3fs
-requests
 -e ./getaround-schemas
